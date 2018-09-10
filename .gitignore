@@ -1,6 +1,7 @@
 # Vim Swap files
 *.swp
 
+*.a
 
 # Created by https://www.gitignore.io/api/git,linux,macos
 
